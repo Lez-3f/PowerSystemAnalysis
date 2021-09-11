@@ -1,0 +1,7 @@
+update model
+get artic
+get island 1
+get equip 1
+get bus 201
+get line 1 2
+get Y 2 3

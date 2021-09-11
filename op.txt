@@ -1,0 +1,17 @@
+insert 155 ¸ººÉ AT 401 STATUS 0 P 10+j10
+change ID=155 STATUS 1 AT 404
+delete ID=155
+print ID=112
+find fromto=404
+print ID=202
+find fromto=405
+update model
+get island 1
+get equip 1
+get bus 201
+get line 1 2
+get Y 1 2
+get Y 1 4
+get artic
+change ID=203 STATUS 1
+update model
